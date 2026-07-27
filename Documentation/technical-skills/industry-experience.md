@@ -1,4 +1,3 @@
-```markdown
 # Industry Experience
 
 This page summarizes my industry experience as a QA Engineer, including domain-specific testing, cross-platform validation, defect investigation, technical documentation, and collaboration with product, development, business, and QA teams.
@@ -115,5 +114,5 @@ Across these industries, my work has included:
 | Broadcast Media & OTT | Voice, streaming, live TV, VOD, advertising, and connected devices | Backend, Playback, UI/UX, Device Compatibility, Automation |
 | SaaS & Communications | Web, mobile, browser extensions, and CRM workflows | Functional, Regression, UAT, Cross-Browser, Cross-Device |
 | Aerospace & Aviation | Windows desktop and converted mainframe applications | Functional, Data Integrity, SQL, JCL, Defect Management |
-```
+
 ---
