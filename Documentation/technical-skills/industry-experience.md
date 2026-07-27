@@ -1,119 +1,119 @@
+```markdown
 # Industry Experience
 
-This section outlines the industries I've contributed to as a QA Engineer and Technical Writer, with an emphasis on domain-specific testing, compliance, and collaboration with cross-functional teams.
+This page summarizes my industry experience as a QA Engineer, including domain-specific testing, cross-platform validation, defect investigation, technical documentation, and collaboration with product, development, business, and QA teams.
 
 ---
 
-## SaaS & CRM Platform Testing Experience
-
-This section highlights my QA contributions across custom-built SaaS platforms and CRM tools used by sales, support, and customer-facing teams. My experience includes functionality testing, cross-browser/device validation, and mobile/web compatibility checks.
-
----
-
-### Mass Notification SaaS & CRM Testing
-
-**Industry:** Communications / Customer Outreach  
-**Platform Type:** SaaS-based mass notification system  
-**Testing Scope:** Web & Mobile apps, Custom CRM for Sales & Support Teams
-
-### Key Responsibilities
-- Tested a **mass communication platform** enabling schools, churches, and sports teams to send voice and text messages to large groups of contacts.
-- Performed **cross-browser testing** across Chrome, Firefox, Safari, and Edge to ensure consistent performance.
-- Executed **cross-device testing** on Android and iOS devices for mobile responsiveness and app functionality.
-- Validated **custom-built CRM features** used internally by sales and customer support teams.
-- Conducted regression, UI/UX, and integration testing to ensure end-to-end workflow coverage.
-
----
-
-### Digital Estate & Financial Planning SaaS Testing
-
-**Industry:** LegalTech / FinTech  
-**Platform Type:** SaaS solution for wills, insurance, and digital legacy management  
-**Testing Scope:** Mobile & Web, Document Vault, Financial Tools
-
-### Key Responsibilities
-- QA testing of a **SaaS platform** used for estate and financial planning, allowing users to securely store wills, insurance documents, and personal assets.
-- Performed **cross-browser and cross-device testing** to verify responsive design and consistent functionality.
-- Validated file uploads, digital forms, and permission-based sharing systems within user vaults.
-- Conducted data integrity checks to ensure sensitive documents were safely stored and retrievable across web and mobile interfaces.
-
----
-
-### Tools & Environments Used
-
-- **Browsers:** Chrome, Safari, Firefox, Edge, Opera  
-- **Devices:** iPhone, iPad, Android smartphones  
-- **Testing Types:** Functional, Regression, UI/UX, Cross-Browser, Cross-Device  
-- **CRM Testing:** Custom workflows, ticketing, dashboard metrics, lead/contact management  
-- **Platforms:** Proprietary in-house SaaS, secure cloud-based systems  
-
----
-
-### ✅ Key Outcomes
-
-- Improved product reliability across modern browsers and mobile devices.
-- Reduced critical issues during releases by identifying CRM-related defects early.
-- Strengthened user trust by validating features tied to sensitive personal and financial data.
-
----
-
-## Broadcast Media & OTT Streaming
+## Energy & Utilities Enterprise Applications
 
 ### Overview
-I conducted thorough testing on OTT platforms across multiple streaming devices (Roku, FireTV, AndroidTV, Apple TV, Smart TVs) and mobile platforms, with a strong focus on ad validation, UI consistency, and playback quality.
+
+Tested SAP and Salesforce enterprise applications supporting business processes in the energy and utilities industry. Work was performed within Agile sprint cycles and included functional validation, data analysis, API testing, and coordination with business stakeholders.
 
 ### Key Contributions
-- Executed ad playback and utilized debugging tools like Charles Proxy and proxy-enabled test devics.
-- Performed end-to-end testing across Smart TVs, mobile apps, and web-based players.
-- Validated UI against Figma design specs for screen-level flow consistency (e.g., homepage → video screen).
-- Verified compatibility with multiple CDN configurations and playback formats (HLS, DASH).
-- Documented and tracked bugs specific to UI elements, video buffering, ad integration, player controls, and subtitle sync.
 
-### Tools Used
-Charles Proxy, Figma, JIRA, TestRail, Android Studio, Xcode, OTT device testing matrix
+- Executed functional, regression, user acceptance, and data-validation testing across SAP and Salesforce environments.
+- Developed and executed detailed test cases in QMetry.
+- Documented defects in JIRA with screenshots, reproduction steps, and supporting evidence.
+- Used Postman to validate SAP APIs and reproduce data-exception errors.
+- Used SQL queries and Power BI analysis to validate enterprise data and application behavior.
+- Validated UI/UX functionality and system performance across enterprise workflows.
+- Collaborated with stakeholders, business teams, developers, and cross-functional departments to align testing with business requirements and release objectives.
+- Used Microsoft Copilot and GitHub Copilot to support QA documentation and improve testing workflows.
+
+### Tools & Platforms
+
+SAP, Salesforce, QMetry, JIRA, Postman, SQL, Power BI, Microsoft Copilot, GitHub Copilot
 
 ---
 
-## Software Development & Custom Applications
+## Broadcast Media, Voice & OTT Streaming
 
 ### Overview
-Supported web and mobile application teams by testing custom-built solutions ranging from internal admin tools to customer-facing platforms.
+
+Tested voice-enabled and OTT/streaming applications across connected devices, smart TVs, mobile platforms, and web experiences. Testing covered Amazon Alexa functionality, live television, video-on-demand, advertising, playback behavior, UI consistency, and cross-platform compatibility.
 
 ### Key Contributions
-- Designed and executed manual test cases based on user stories, UI mockups, and technical requirements.
-- Reported functional, UI/UX, and performance issues with detailed bug reports, logs, and recordings.
-- Participated in sprint planning and reviews to ensure test coverage aligns with story acceptance criteria.
-- Helped bridge gaps between QA, development, and product through active documentation and collaboration.
-- Supported cross-browser, cross-device and cross-platform testing.
-  
-### Tools Used
-TestRail, Zephyr Squad, JIRA, GitHub, Chrome DevTools, BrowserStack, Markdown
+
+- Tested Amazon Alexa voice functionality and connected OTT/streaming applications across multiple device ecosystems.
+- Performed backend, functional, regression, user acceptance, usability, performance, and cross-platform testing.
+- Validated live television, video-on-demand, advertising, playback, and UI/UX behavior across Roku, Fire TV, Apple TV, Android TV, Samsung, LG, iOS, Android, and web platforms.
+- Created test plans and executed test cases using Xray and TestRail.
+- Validated application behavior against Figma design specifications.
+- Investigated backend issues, application crashes, and streaming defects using logs, network traffic, and platform-development tools.
+- Documented defects in JIRA with screenshots, logs, recordings, and reproducible steps.
+- Collaborated with development, QA, and product teams to investigate and resolve streaming defects.
+- Developed and executed iOS automation tests using Appium, WebdriverIO, TypeScript, and BrowserStack.
+- Developed an AI assistant to support Amazon Alexa testing and QA documentation.
+
+### Tools & Platforms
+
+Roku, Fire TV, Apple TV/tvOS, Android TV, Samsung, LG, iOS, Android, Web, Amazon Alexa, Appium, WebdriverIO, TypeScript, BrowserStack, Datadog, CloudWatch, Charles Proxy, Wireshark, Android Studio, Xcode, DevTools, Figma, JIRA, Xray, TestRail
 
 ---
-##  Aerospace & Aviation Software
+
+## SaaS, CRM & Communications Platforms
 
 ### Overview
-Tested desktop software used for **airplane parts allocation**, ensuring accuracy and compliance with industry standards for parts inventory, maintenance scheduling, and logistics planning.
+
+Tested SaaS web, mobile, and browser-extension applications used for communications and customer-facing workflows. Testing emphasized browser compatibility, responsive behavior, usability, and consistent functionality across platforms.
 
 ### Key Contributions
-- Conducted functional and navigational testing of complex **Windows-based inventory management software**.
-- Verified part identification, availability logic, and allocation rules based on aircraft type, service level, and maintenance schedule.
-- Logged and tracked defects using **Bugzilla**, following strict QA procedures for traceability and version tracking.
-- Queried internal databases using **SQL** to verify part numbers, user roles, calculations, and part descriptions.
-- Used **Remote Desktop** to access test environments simulating production-like deployment conditions across different locations.
-- Executed and monitored batch processes using **JCL (Job Control Language)** for syncing parts databases and automated nightly jobs.
 
-### Tools Used
-Windows Desktop Software, Bugzilla, SQL, Remote Desktop, JCL, Microsoft Excel, Microsoft Word
+- Performed functional, regression, user acceptance, UI/UX, usability, and cross-browser testing.
+- Validated web, mobile, SaaS, and Chrome-extension functionality.
+- Tested custom CRM workflows used by sales and customer-support teams.
+- Verified compatibility across major desktop browsers and Android and iOS devices.
+- Used browser developer tools to investigate application behavior and identify root causes affecting performance and usability.
+- Documented detailed defects in JIRA using screenshots, recordings, logs, and reproduction steps.
+- Collaborated with development, product, and executive teams to improve QA workflows and software quality.
+
+### Tools & Platforms
+
+Web, Mobile, SaaS, Chrome Extensions, Custom CRM, Android, iOS, JIRA, Browser Developer Tools
+
+---
+
+## Aerospace & Aviation Software
+
+### Overview
+
+Tested a Windows desktop application converted from a mainframe system for an aerospace project. Testing focused on functionality, data integrity, backend processing, and user-interface behavior.
+
+### Key Contributions
+
+- Performed functional, regression, user acceptance, UI/UX, usability, and desktop-application testing.
+- Executed JCL batch jobs to validate backend processing and application behavior.
+- Used SQL queries to validate data integrity and application results.
+- Created detailed defect reports in Bugzilla with screenshots, recordings, logs, and reproduction steps.
+- Collaborated with QA, development, and project-management teams to investigate and resolve defects.
+
+### Tools & Platforms
+
+Windows Desktop Applications, Mainframe Systems, JCL, SQL, Bugzilla
+
+---
+
+## Cross-Industry QA Practices
+
+Across these industries, my work has included:
+
+- Creating test plans, test cases, defect reports, and QA documentation.
+- Performing functional, regression, exploratory, user acceptance, integration, API, backend, data, UI/UX, usability, performance, cross-browser, cross-device, and cross-platform testing.
+- Translating business requirements, user stories, and design specifications into test coverage.
+- Investigating defects using logs, database queries, API tools, network proxies, cloud-monitoring platforms, and development tools.
+- Working within Agile sprint cycles and collaborating with product, development, business, and QA teams.
 
 ---
 
 ## Summary of Industries
 
-| Industry             | Primary Focus                              | QA Areas Covered                                      |
-|----------------------|--------------------------------------------|--------------------------------------------------------|
-| SaaS                 | Cloud-based B2B apps & automation          | API Testing, CI/CD, Permissions, Feature Flags         |
-| Broadcast Media      | Streaming services, OTT platforms          | Playback, Ad Validation, Device Compatibility          |
-| Software Dev         | Custom tools, internal & external apps     | Functional Testing, UI Validation, Test Planning       |
-| Aerospace            | Desktop logistics & allocation systems     | Bugzilla, SQL, Remote Desktop, JCL, Inventory Rules    |
+| Industry | Primary Focus | QA Areas Covered |
+|---|---|---|
+| Energy & Utilities | SAP, Salesforce, and enterprise business processes | Functional, Regression, UAT, API, Data Validation |
+| Broadcast Media & OTT | Voice, streaming, live TV, VOD, advertising, and connected devices | Backend, Playback, UI/UX, Device Compatibility, Automation |
+| SaaS & Communications | Web, mobile, browser extensions, and CRM workflows | Functional, Regression, UAT, Cross-Browser, Cross-Device |
+| Aerospace & Aviation | Windows desktop and converted mainframe applications | Functional, Data Integrity, SQL, JCL, Defect Management |
+```
 ---
