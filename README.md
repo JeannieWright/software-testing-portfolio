@@ -42,7 +42,7 @@ Includes:
 - Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)
   
 ### OTT & Mobile Platforms
-Located in [`/docs`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/docs):
+Located in [`/docs`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/Documentation):
 
 Roku, Fire TV, Apple TV, Android TV, Samsung, LG, Vizio, iOS, Android, Web, and Desktop testing.
 
