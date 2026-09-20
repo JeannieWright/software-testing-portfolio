@@ -12,7 +12,7 @@ Welcome to my Software Testing Portfolio! This portfolio shows hands-on experien
 ## Repo Sections
 
 ### QA & Software Testing
-Located in [`/manual-tests`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/manual-tests):
+Located in [`/manual-tests`][https://github.com/JeannieWright/software-testing-portfolio/blob/main/Documentation/manual-testing-guide.md]
 
 Manual testing, API validation, defect management, exploratory testing, UAT, performance testing, and more.
 Includes:
