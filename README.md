@@ -1,7 +1,7 @@
 # Software Testing Portfolio by Jean E. Wright
 Welcome to my Software Testing Portfolio! This portfolio shows hands-on experience and testing strategies across **OTT, Web, and Mobile Software Testing**, which included both manual and automated testing, along with documentation.
 
-![Software Testing Portfolio](https://raw.githubusercontent.com/WrighTeck/software-testing-portfolio/main/software-test-portfolio.jpg)
+![Software Testing Portfolio](https://raw.githubusercontent.com/JeannieWright/software-testing-portfolio/main/software-test-portfolio.jpg)
 
  **What You'll Find Here:**
 	•	Real-world manual test cases and bug reports
@@ -12,7 +12,7 @@ Welcome to my Software Testing Portfolio! This portfolio shows hands-on experien
 ## Repo Sections
 
 ### QA & Software Testing
-Located in [`/manual-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/manual-tests):
+Located in [`/manual-tests`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/manual-tests):
 
 Manual testing, API validation, defect management, exploratory testing, UAT, performance testing, and more.
 Includes:
@@ -25,7 +25,7 @@ Includes:
 - QA checklists
 
 ### Automation Tools & Tests
-Located in [`/automation-tests`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests):
+Located in [`/automation-tests`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/automation-tests):
 
 Appium, Playwright, WebdriverIO, BrowserStack, Postman, SQL, Datadog, Charles Proxy, and more.
 
@@ -42,7 +42,7 @@ Includes:
 - Appium tests for iOS written against [UI Catalog](https://github.com/appium/ios-uicatalog)
   
 ### OTT & Mobile Platforms
-Located in [`/docs`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/docs):
+Located in [`/docs`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/docs):
 
 Roku, Fire TV, Apple TV, Android TV, Samsung, LG, Vizio, iOS, Android, Web, and Desktop testing.
 
@@ -58,7 +58,7 @@ Includes:
 [API Testing Portfolio](./qa-software-testing/api-testing)
 
 ### Test Management & Collaboration
-Located in [`/test-management`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/test-management):
+Located in [`/test-management`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/test-management):
 
 JIRA, Xray, TestRail, Qmetry, Agile workflows, stakeholder communication, and collaboration.
 
