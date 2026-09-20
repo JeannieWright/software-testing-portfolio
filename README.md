@@ -25,7 +25,7 @@ Includes:
 - QA checklists
 
 ### Automation Tools & Tests
-Located in [`/automation-tests`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/automation-tests):
+Located in [`/automation-tests`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/automation-tests-tools):
 
 Appium, Playwright, WebdriverIO, BrowserStack, Postman, SQL, Datadog, Charles Proxy, and more.
 
