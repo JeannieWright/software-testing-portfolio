@@ -29,4 +29,4 @@ Test coverage includes:
 
 > Appium Inspector and emulators/simulators are used for session recording and locator verification.
 
-📁 See: [`/automation-tests/appium/`](https://github.com/WrighTeck/software-testing-portfolio/tree/main/automation-tests/appium)
+📁 See: [`/automation-tests/appium/`](https://github.com/JeannieWright/software-testing-portfolio/tree/main/automation-tests-tools/appium)
