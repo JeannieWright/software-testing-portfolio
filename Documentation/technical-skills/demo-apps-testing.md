@@ -1,6 +1,6 @@
 # ⚖️ Ethical Testing Using Demo Applications
 
-## How I User Demo Applications?
+## How I Use Demo Applications?
 
 I use demo applications to practice and demonstrate software testing in a safe and controlled environment. They allow me to create and execute manual and automated tests across different browsers, devices, screen sizes, and user scenarios without affecting production systems.
 
