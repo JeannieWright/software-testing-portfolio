@@ -1,8 +1,12 @@
 
 # Video Stream Ad Validation and Playback Test Flows
 
-## Overview 
-This guide covers testing of video stream ads including pre-roll, mid-roll, post-roll ads, cue points, playback behavior, skip functionality, click-through links,      loading times, ad timing, and rendering quality.Additional section provides testing Ad UI elements and quality.
+## How I Test Video Stream Ads and Playback 
+I test video advertising and playback to verify ads deliver correctly without disrupting the viewing experience.
+
+My testing includes pre-roll, mid-roll, and post-roll ads; ad cue points and timing; playback behavior; skip functionality; click-through links; loading and transitions; and rendering quality.
+
+I also validate ad UI elements to ensure controls, messaging, and visual behavior display and function as expected across supported streaming platforms.
 
 ---
 
